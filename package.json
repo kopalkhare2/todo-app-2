@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
-"homepage": "https://kopalkhare2.github.io/todo-app-main",
+  "homepage": "https://kopalkhare2.github.io/todo-app-2",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -13,12 +13,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -37,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
