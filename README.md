@@ -15,7 +15,7 @@ A stylish and interactive React ToDo app built with modern features like dark mo
 
 ## 🔗 Live Demo
 
-> 👉 [https://kopalkhare2.github.io/todo-app]([https://kopalkhare2.github.io/todo-app](https://kopalkhare2.github.io/todo-app-2/))
+> 👉 (https://kopalkhare2.github.io/todo-app-2/))
 
 
 ## 🛠️ Tech Stack
